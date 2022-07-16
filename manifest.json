@@ -1,8 +1,8 @@
 {
   "name": "PKContact",
   "short_name": "PKContact",
-  "start_url": "/",
-  "scope": "/index.html",
+  "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#3367D6",
   "theme_color": "#3367D6",
@@ -13,7 +13,7 @@
     {
       "src": "/TemplateData/progress-bar-empty-dark.png",
       "type": "image/png",
-      "sizes": "512x512 1"
+      "sizes": "512x512"
     },
     {
       "src": "/TemplateData/progress-bar-empty-light.png",
