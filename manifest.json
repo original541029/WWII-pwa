@@ -1,0 +1,25 @@
+{
+  "name": "PKContact",
+  "short_name": "PKContact",
+  "start_url": "/",
+  "scope": "/index.html",
+  "display": "standalone",
+  "background_color": "#3367D6",
+  "theme_color": "#3367D6",
+  "orientation": "landscape",
+  "prefer_related_applications": false,
+  "description": "Example",
+  "icons": [
+    {
+      "src": "/TemplateData/progress-bar-empty-dark.png",
+      "type": "image/png",
+      "sizes": "512x512 1"
+    },
+    {
+      "src": "/TemplateData/progress-bar-empty-light.png",
+      "type": "image/png",
+      "sizes": "146x146",
+      "purpose": "maskable"
+    }
+  ]
+}
